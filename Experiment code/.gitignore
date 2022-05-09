@@ -1,0 +1,8 @@
+.spyproject/*
+
+__pycache__/*
+networks/__pycache__/*
+streams/__pycache__/*
+utils/__pycache__/*
+
+__results__/*
